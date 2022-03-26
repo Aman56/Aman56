@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman56
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- I’m looking to collaborate on Machine Learning Projects
 
 <!---
 Aman56/Aman56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
