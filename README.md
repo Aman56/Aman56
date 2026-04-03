@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aman56
-- 🌱 I’m currently learning Machine Learning
-- I’m looking to collaborate on Machine Learning Projects
+theme: jekyll-theme-dinky
+- 👋 Hi, I’m Aman
+- 🌱 I currently a AI/ML Data Scientist
+- I’m looking to collaborate on research projects
 
 <!---
 Aman56/Aman56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
