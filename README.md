@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+
 - 👋 Hi, I’m Aman
 - 🌱 I currently a AI/ML Data Scientist
 - I’m looking to collaborate on research projects
