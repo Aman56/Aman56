@@ -20,3 +20,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao"
+
+plugins:
+  - jekyll-include-cache
