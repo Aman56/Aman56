@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-AI/ML Scientist . Foundation Models (Personalization) . LLM Interpretability
+AI/ML Scientist / Foundation Models (Personalization) / LLM Interpretability
 
 Welcome to my digital space. I am currently building at **Resonate Networks**, where I lead the development of natural language audience-building engines. 
 
