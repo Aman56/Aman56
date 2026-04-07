@@ -1,3 +1,9 @@
+
+---
+layout: single
+author_profile: true
+---
+
 # Hi, I'm Aman. 👋
 
 AI/ML Scientist | Foundation Models (Personalization) | LLM Interpretability
