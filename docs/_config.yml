@@ -1,16 +1,16 @@
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
-title: "Aman Shukla"
+title: "# Hi, I'm Aman. 👋"
 
 # This builds your beautiful left-hand sidebar profile
 author:
-  name: "Aman"
-  bio: "AI/ML Scientist @ Resonate | NYU Alum"
+  name: "Aman Shukla"
+  bio: "AI/ML Scientist @ Resonate . NYU Alum"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "as14034@nyu.edu"
+      url: "mailto:as14034@nyu.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/aman56shukla"
