@@ -6,7 +6,7 @@ title: "# Hi, I'm Aman. 👋"
 # This builds your beautiful left-hand sidebar profile
 author:
   name: "Aman Shukla"
-  avatar : "/Aman56/assets/images/aman.jpg"
+  avatar : "/assets/images/aman.jpg"
   bio: "AI/ML Scientist @ Resonate \n NYU Alum"
   links:
     - label: "Email"
