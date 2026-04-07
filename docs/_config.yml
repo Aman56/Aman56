@@ -1,3 +1,22 @@
-title: Aman Shukla
-description: "AI/ML Scientist at Resonate <br> <a>Previously at NYU</a> <br><br> <a href='mailto:as14034@nyu.edu'>📧 Email</a> <br> <a href='https://linkedin.com/in/aman56shukla'>💼 LinkedIn</a> <br> <a href='https://github.com/Aman56'>💻 GitHub</a> <br> <a href='https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao'>🎓 Scholar</a>"
-theme: jekyll-theme-dinky
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
+title: "Aman Shukla"
+
+# This builds your beautiful left-hand sidebar profile
+author:
+  name: "Aman"
+  bio: "AI/ML Scientist @ Resonate | NYU Alum"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "as14034@nyu.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/aman56shukla"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Aman56"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao"
