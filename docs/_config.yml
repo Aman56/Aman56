@@ -1,4 +1,5 @@
 
+baseurl: /Aman56/
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
 title: "# Hi, I'm Aman. 👋"

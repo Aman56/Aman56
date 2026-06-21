@@ -1,7 +1,12 @@
 ---
 layout: single
 author_profile: true
+permalink: /
 ---
+
+<div style="text-align: center; margin-bottom: 2em; font-size: 0.9em;">
+  <a href="/Aman56/">Home</a> • <a href="/Aman56/publications/">Publications</a> • <a href="/Aman56/projects/">Projects</a> • <a href="/Aman56/resume/">Resume</a> • <a href="/Aman56/news/">News</a> • <a href="/Aman56/network/">Network</a>
+</div>
 
 <div class="hero-block">
   <p class="hero-tagline">AI/ML Scientist / Foundation Models (Personalization) / LLM Interpretability</p>

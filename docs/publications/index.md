@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>
 
 ## Featured Publications
@@ -28,7 +28,7 @@ permalink: /publications/
   <div class="pub-impact">
     <strong>Impact:</strong> Production-validated approach combining deep learning with survey science. Currently deployed at Resonate Networks.
   </div>
-  <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a> · <a href="https://github.com/Aman56" class="pub-link">Code</a> · <a href="https://linkedin.com/in/aman56shukla" class="pub-link">Details</a>
+  <a href="https://arxiv.org/abs/2507.20919" class="pub-link">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a> · <a href="https://github.com/Aman56" class="pub-link">Code</a>
 </div>
 
 ## All Publications
@@ -53,7 +53,7 @@ permalink: /publications/
       <td>Towards Better Personalization: Modeling User Preferences via Synthetic Respondents</td>
       <td>Preprint</td>
       <td>2025</td>
-      <td><a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao">Scholar</a></td>
+      <td><a href="https://arxiv.org/abs/2507.20919">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao">Scholar</a></td>
     </tr>
   </tbody>
 </table>
@@ -78,5 +78,5 @@ End-to-end design of reliable model pipelines: training, serving, and monitoring
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>

@@ -6,7 +6,7 @@ permalink: /projects/
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>
 
 ## Production Projects
@@ -115,5 +115,5 @@ permalink: /projects/
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>

@@ -6,7 +6,7 @@ permalink: /resume/
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>
 
 <div style="text-align: center; margin-bottom: 1.5em;">
@@ -148,10 +148,10 @@ permalink: /resume/
 
 ## About This Resume
 
-This is my resume focused on recent work and key projects. A more comprehensive CV can be prepared if needed. See [Publications](/publications/) and [Projects](/projects/) for more details.
+This is my resume focused on recent work and key projects. A more comprehensive CV can be prepared if needed. See [Publications](/Aman56/publications/) and [Projects](/Aman56/projects/) for more details.
 
 ---
 
 <div class="page-nav">
-  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>
