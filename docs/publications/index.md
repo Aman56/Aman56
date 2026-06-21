@@ -5,10 +5,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<div style="text-align: center; margin-bottom: 1.5em; font-size: 0.9em;">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a>
-</div>
-
 ## Peer-Reviewed Publications & Presentations
 
 <div class="pub-item">

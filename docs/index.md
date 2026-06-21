@@ -4,10 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-<div style="text-align: center; margin-bottom: 1.5em; font-size: 0.9em;">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a>
-</div>
-
 <div class="hero-block">
   <p class="hero-tagline">Lead Data Scientist · User Behavior Modeling · Fairness in ML</p>
   <h2 class="hero-title">I build AI systems that understand human intent — not just observe behavior.</h2>
