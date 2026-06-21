@@ -2,10 +2,11 @@
 layout: single
 author_profile: true
 permalink: /
+title: "Aman Shukla — AI/ML Scientist"
 ---
 
 <div style="text-align: center; margin-bottom: 2em; font-size: 0.9em;">
-  <a href="/Aman56/">Home</a> • <a href="/Aman56/publications/">Publications</a> • <a href="/Aman56/projects/">Projects</a> • <a href="/Aman56/resume/">Resume</a> • <a href="/Aman56/news/">News</a> • <a href="/Aman56/network/">Network</a>
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
 </div>
 
 <div class="hero-block">
@@ -49,18 +50,18 @@ permalink: /
 </div>
 
 
-## 📝 Selected Publications
+## Selected Publications
 
 <div class="pub-item">
   <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks <a href="https://arxiv.org/abs/2303.11873" class="pub-link">[Paper]</a></span>
-  <span class="pub-authors">William Merrill, Nikolaos Tsilivis, **Aman Shukla**</span>
+  <span class="pub-authors">William Merrill, Nikolaos Tsilivis, <strong>Aman Shukla</strong></span>
   <span class="pub-venue">ICLR 2024 | Contribution: Co-author</span>
   <span class="pub-desc">Investigates the mechanistic basis of grokking, identifying a transition where sparse, well-generalizing circuits outperform dense, overfit subnetworks.</span>
 </div>
 
 <div class="pub-item">
   <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context <a href="https://arxiv.org/abs/2507.20919" class="pub-link">[Paper]</a></span>
-  <span class="pub-authors">**Aman Shukla**, David P. Scantlebury, Ritesh Kumar</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong>, David P. Scantlebury, Ritesh Kumar</span>
   <span class="pub-venue">Preprint 2025 | Contribution: Lead author <span class="pub-best">🏆 Best Paper</span></span>
   <span class="pub-desc">Proposes a framework for synthesizing high-fidelity user respondents by combining adaptive survey data with contextual behavioral signals.</span>
 </div>
@@ -79,7 +80,7 @@ permalink: /
 </div>
 
 
-## 💼 Experience
+## Experience
 
 <div class="timeline">
   <div class="timeline-item">
@@ -103,10 +104,10 @@ permalink: /
     <div class="timeline-content">
       <div class="timeline-header">
         <div>
-          <span class="timeline-role">Research Assistant</span>
+          <span class="timeline-role">Researcher</span>
           <span class="timeline-company">New York University</span>
         </div>
-        <span class="timeline-date">May 2023 – Oct 2023</span>
+        <span class="timeline-date">2021–2023</span>
       </div>
       <ul class="timeline-bullets">
         <li><strong>Action:</strong> Developed <strong>EmoMusic</strong>. <strong>Method:</strong> DeepMoji Transformers + GoogleNet. <strong>Outcome:</strong> Improved music-emotion interaction prediction.</li>

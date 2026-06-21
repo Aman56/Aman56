@@ -12,20 +12,20 @@ permalink: /news/
 ## 2025
 
 **User Behavior Modeling Preprint Released**
-Published comprehensive framework for personalization via synthetic respondents. Demonstrates +5% lift on audience prediction and scales to 3T-row inference on AWS.
-<br/>[Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao) · [Code](https://github.com/Aman56) · [Details](/Aman56/projects/)
+Published "Modeling User Behavior from Adaptive Surveys with Supplemental Context" — comprehensive framework for personalization via synthetic respondents. Demonstrates +5% lift on audience prediction and scales to 3T-row inference on AWS.
+<br/>[arXiv](https://arxiv.org/abs/2507.20919) · [Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao) · [Details](/Aman56/projects/)
 
 **Best Paper Recognition**
-Research work on grokking and circuit competition received community recognition at interpretability conferences.
-<br/>[Publication](/Aman56/publications/) · [Impact](#)
+Research work received Best Paper award.
+<br/>[Publication](/Aman56/publications/)
 
 ---
 
 ## 2024
 
 **ICLR 2024 Publication**
-Paper on mechanistic interpretability—"Grokking as Competitive Pressure Between Sparsely and Densely Connected Subnetworks"—accepted and presented at ICLR, one of the top ML venues.
-<br/>[arXiv](https://arxiv.org/abs/2311.12982) · [ICLR](https://iclr.cc) · [Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao)
+Paper on mechanistic interpretability—"A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks"—accepted and presented at ICLR, one of the top ML venues.
+<br/>[arXiv](https://arxiv.org/abs/2303.11873) · [ICLR](https://iclr.cc) · [Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao)
 
 **Continued Production ML Deployment**
 Personalization models at Resonate sustain measurable lift and scale; infrastructure refined for reliability and cost-efficiency.
@@ -47,10 +47,6 @@ Investigated grokking through circuit analysis, sparse-dense network competition
 Explored emotion transfer in music generation through representation learning. Bridged music information retrieval with deep learning interpretability.
 <br/>[Projects](/Aman56/projects/)
 
-**Mentorship & Collaboration**
-Mentored 2 junior researchers on interpretability methodology. Collaborated with Anthropic's interpretability team and Distill community on research standards.
-<br/>[Network](/Aman56/network/)
-
 ---
 
 ## Archive & Links
@@ -63,9 +59,3 @@ Mentored 2 junior researchers on interpretability methodology. Collaborated with
 
 **Professional Profile**
 <br/>[LinkedIn](https://linkedin.com/in/aman56shukla) · [Resume](/Aman56/resume/)
-
----
-
-<div class="page-nav">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
-</div>

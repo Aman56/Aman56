@@ -12,8 +12,8 @@ permalink: /network/
 ## Advisors & Mentors
 
 **Prof. Gus Xia** — New York University
-<br/>Ph.D. advisor for research on mechanistic interpretability and generalization. Collaborated on grokking circuits and representation learning projects.
-<br/>[NYU Profile](https://cs.nyu.edu/) · [Research](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao)
+<br/>Master's thesis advisor for research on mechanistic interpretability and generalization. Collaborated on grokking circuits and representation learning projects.
+<br/>[NYU CS Department](https://cs.nyu.edu/)
 
 ---
 
@@ -21,11 +21,9 @@ permalink: /network/
 
 **William Merrill** — University of Pennsylvania
 <br/>Collaborated on mechanistic interpretability research. Co-authored ICLR 2024 publication on grokking and circuit competition.
-<br/>[Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com)
 
 **Nikolaos Tsilivis** — DeepMind / Research
 <br/>Research collaboration on interpretability and model behavior. Co-authored grokking circuits paper.
-<br/>[Scholar](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -39,18 +37,18 @@ permalink: /network/
 
 ---
 
-## Research Communities
+## Research Communities I Follow
 
 **Anthropic Interpretability**
-<br/>Active participant in mechanistic interpretability research community. Following work on circuit analysis, activation patterns, and model internals.
+<br/>Following work on circuit analysis, activation patterns, and model internals.
 <br/>[Anthropic Interpretability](https://www.anthropic.com)
 
 **Chris Olah's Blog**
-<br/>Study of foundational work on neural network feature visualization and interpretability. Applied concepts to circuit analysis and grokking research.
+<br/>Foundational work on neural network feature visualization and interpretability.
 <br/>[Blog](https://colah.github.io)
 
 **Distill.pub**
-<br/>Community for clear communication of machine learning research. Following standards for explainability and research methodology.
+<br/>Community for clear communication of machine learning research.
 <br/>[Distill](https://distill.pub)
 
 **Papers with Code**
@@ -58,7 +56,7 @@ permalink: /network/
 <br/>[Papers with Code](https://paperswithcode.com)
 
 **ICLR 2024**
-<br/>Published mechanistic interpretability work at top-tier ML conference. Engaged with community on grokking and circuit research.
+<br/>Published mechanistic interpretability work at top-tier ML conference.
 <br/>[ICLR](https://iclr.cc)
 
 **NeurIPS**
@@ -80,9 +78,3 @@ permalink: /network/
 
 **Google Scholar**
 <br/>[Publications & Citations](https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao)
-
----
-
-<div class="page-nav">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
-</div>

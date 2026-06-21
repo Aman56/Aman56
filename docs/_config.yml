@@ -2,13 +2,15 @@
 baseurl: /Aman56/
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
-title: "# Hi, I'm Aman. 👋"
+title: "Aman Shukla"
+description: "AI/ML Scientist — Foundation models, personalization, and mechanistic interpretability. ICLR 2024, NYU CS."
+og_image: /assets/images/aman.jpg
 
 # This builds your beautiful left-hand sidebar profile
 author:
   name: "Aman Shukla"
   avatar : "/assets/images/aman.jpg"
-  bio: "AI/ML Scientist @ Resonate \n NYU Alum"
+  bio: "AI/ML Scientist @ Resonate | NYU Alum"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -25,3 +27,4 @@ author:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap

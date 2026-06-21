@@ -10,7 +10,7 @@ permalink: /resume/
 </div>
 
 <div style="text-align: center; margin-bottom: 1.5em;">
-  <a href="/assets/Aman%20-%20Recent.pdf" class="btn btn--primary">Download Full Resume (PDF)</a>
+  <a href="/Aman56/assets/Aman%20-%20Recent.pdf" class="btn btn--primary">Download Full Resume (PDF)</a>
 </div>
 
 ## Key Credentials
@@ -42,7 +42,7 @@ permalink: /resume/
 
   <div class="timeline-item">
     <div class="timeline-header">
-      <span class="timeline-role">ML Research Lead</span>
+      <span class="timeline-role">ML Researcher</span>
       <span class="timeline-company">NYU Computer Science (Prof. Gus Xia)</span>
       <span class="timeline-date">2021–2023</span>
     </div>
@@ -50,21 +50,19 @@ permalink: /resume/
       <li>Investigated mechanistic interpretability through circuit analysis and sparse-dense network competition</li>
       <li>Published grokking paper at ICLR 2024; developed interpretability framework used in follow-up research</li>
       <li>Researched music emotion transfer and representation learning (EmoMusic project)</li>
-      <li>Mentored 2 junior researchers on interpretability methodology and experimental design</li>
-      <li>Collaborated with Anthropic and Distill community on interpretability standards</li>
     </ul>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-header">
-      <span class="timeline-role">Autonomous Driving Intern</span>
-      <span class="timeline-company">Capgemini Applied Innovation Exchange</span>
-      <span class="timeline-date">Summer 2022</span>
+      <span class="timeline-role">Data Scientist</span>
+      <span class="timeline-company">Capgemini</span>
+      <span class="timeline-date">Jul 2018 – Dec 2020</span>
     </div>
     <ul class="timeline-bullets">
       <li>Developed orthogonal coordinate transformation framework for multi-sensor fusion (LiDAR, camera, GPS)</li>
-      <li>Achieved 10% accuracy improvement over baseline; deployed on embedded systems</li>
-      <li>Validated on real-world autonomous vehicle dataset; integrated with production platform</li>
+      <li>Rebuilt NDS map extraction framework with PostgreSQL automation; 35% processing time reduction</li>
+      <li>Built 150+ Python utilities for self-driving map features with Pandas and NumPy</li>
     </ul>
   </div>
 </div>
@@ -90,11 +88,10 @@ permalink: /resume/
   <div class="timeline-item">
     <div class="timeline-header">
       <span class="timeline-role">Bachelor of Science, Computer Science</span>
-      <span class="timeline-company">Undergraduate</span>
+      <span class="timeline-company"></span>
       <span class="timeline-date">2017–2021</span>
     </div>
     <ul class="timeline-bullets">
-      <li>Cumulative GPA: 3.8/4.0</li>
       <li>Focus: Machine learning, software engineering, mathematics</li>
     </ul>
   </div>
@@ -123,17 +120,17 @@ permalink: /resume/
 
 ## Publications
 
-<ul class="pub-item">
-  <span class="pub-title">Grokking as Competitive Pressure Between Sparsely and Densely Connected Subnetworks</span>
+<div class="pub-item">
+  <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks</span>
   <span class="pub-venue">ICLR 2024</span>
-  <a href="https://arxiv.org/abs/2311.12982" class="pub-link">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a>
-</ul>
+  <a href="https://arxiv.org/abs/2303.11873" class="pub-link">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a>
+</div>
 
-<ul class="pub-item">
-  <span class="pub-title">Towards Better Personalization: Modeling User Preferences via Synthetic Respondents</span>
+<div class="pub-item">
+  <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context</span>
   <span class="pub-venue">2025 Preprint</span>
-  <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a> · <a href="https://github.com/Aman56" class="pub-link">Code</a>
-</ul>
+  <a href="https://arxiv.org/abs/2507.20919" class="pub-link">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a>
+</div>
 
 ---
 
@@ -142,16 +139,10 @@ permalink: /resume/
 - **Audience Personalization (Production):** +5% lift, 3T-row inference deployment, measurable business impact
 - **Mechanistic Interpretability Research:** Published at ICLR 2024, community impact
 - **EmoMusic:** Emotion transfer and representation learning research
-- **Autonomous Driving (Capgemini):** Multi-sensor fusion, coordinate transformation framework
+- **Autonomous Driving (OCM):** Multi-sensor fusion, coordinate transformation framework
 
 ---
 
 ## About This Resume
 
 This is my resume focused on recent work and key projects. A more comprehensive CV can be prepared if needed. See [Publications](/Aman56/publications/) and [Projects](/Aman56/projects/) for more details.
-
----
-
-<div class="page-nav">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
-</div>
