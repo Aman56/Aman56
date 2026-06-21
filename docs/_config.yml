@@ -1,16 +1,15 @@
 
 baseurl: /Aman56/
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
+minimal_mistakes_skin: "default"
 title: "Aman Shukla"
-description: "AI/ML Scientist — Foundation models, personalization, and mechanistic interpretability. ICLR 2024, NYU CS."
+description: "Lead Data Scientist at Resonate. Research in user behavior modeling, fairness in ML, and mechanistic interpretability."
 og_image: /assets/images/aman.jpg
 
-# This builds your beautiful left-hand sidebar profile
 author:
   name: "Aman Shukla"
-  avatar : "/assets/images/aman.jpg"
-  bio: "AI/ML Scientist @ Resonate | NYU Alum"
+  avatar: "/assets/images/aman.jpg"
+  bio: "Lead Data Scientist @ Resonate | NYU Alum"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

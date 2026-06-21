@@ -2,24 +2,23 @@
 layout: single
 author_profile: true
 permalink: /
-title: "Aman Shukla — AI/ML Scientist"
 ---
 
-<div style="text-align: center; margin-bottom: 2em; font-size: 0.9em;">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
+<div style="text-align: center; margin-bottom: 1.5em; font-size: 0.9em;">
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a>
 </div>
 
 <div class="hero-block">
-  <p class="hero-tagline">AI/ML Scientist / Foundation Models (Personalization) / LLM Interpretability</p>
-  <h2 class="hero-title">Building production-grade personalization systems grounded in interpretable ML research.</h2>
+  <p class="hero-tagline">Lead Data Scientist · User Behavior Modeling · Fairness in ML</p>
+  <h2 class="hero-title">I build AI systems that understand human intent — not just observe behavior.</h2>
   <p class="hero-intro">
-    I am currently building at <strong>Resonate Networks</strong>, where I work on natural language audience-building engines.
-    Previously, I completed my Master's in Computer Science at NYU, researching under Prof. Gus Xia.
+    At <strong>Resonate</strong>, I lead research on adaptive survey-guided learning, responsible imputation, and personalization systems at scale. My work has been recognized with a <strong>Best Paper at ICML</strong> and presentations at <strong>IEEE</strong> and <strong>NeurIPS</strong>.
   </p>
   <div class="proof-chips">
-    <span class="proof-chip">ICLR 2024 publication</span>
-    <span class="proof-chip">+5% lift over XGBoost baseline</span>
-    <span class="proof-chip">3T-row AWS inference deployment</span>
+    <span class="proof-chip">Best Paper — ICML 2025</span>
+    <span class="proof-chip">Oral — IEEE FMLDS 2025</span>
+    <span class="proof-chip">NeurIPS 2025</span>
+    <span class="proof-chip">ICLR 2023</span>
   </div>
 </div>
 
@@ -27,191 +26,54 @@ title: "Aman Shukla — AI/ML Scientist"
 
 <div class="theme-grid">
   <div class="theme-card">
-    <h3>Personalization via Synthetic Respondents</h3>
-    <p>Modeling user behavior from adaptive surveys and contextual signals to improve audience understanding at scale.</p>
+    <h3>User Behavior Modeling</h3>
+    <p>Adaptive surveys, synthetic respondents, and declarative data as ground truth for understanding human intent at scale.</p>
+  </div>
+  <div class="theme-card">
+    <h3>Fairness & Responsible AI</h3>
+    <p>Fair user modeling, responsible imputation of missing survey data, and ethics-by-design in personalization systems.</p>
   </div>
   <div class="theme-card">
     <h3>Mechanistic Interpretability</h3>
-    <p>Studying how sparse and dense subnetworks compete and generalize, with focus on grokking and model behavior.</p>
-  </div>
-  <div class="theme-card">
-    <h3>Production ML Systems</h3>
-    <p>Designing reliable model pipelines on AWS and distributed systems for high-volume training and inference workflows.</p>
+    <p>Understanding neural network internals through circuit analysis — sparse vs. dense subnetwork competition and grokking.</p>
   </div>
 </div>
-
-## Recent Momentum
-
-<div class="momentum-list">
-  <div class="momentum-item"><span class="momentum-date">2025</span> User behavior modeling preprint released with adaptive survey framework.</div>
-  <div class="momentum-item"><span class="momentum-date">2024</span> Paper on grokking and sparse-dense circuit competition published at ICLR.</div>
-  <div class="momentum-item"><span class="momentum-date">2023-present</span> Shipped production personalization models with measurable lift at Resonate.</div>
-  <div class="momentum-item"><span class="momentum-date">2023</span> Completed NYU research work bridging music-AI and representation learning.</div>
-</div>
-
 
 ## Selected Publications
 
 <div class="pub-item">
-  <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks <a href="https://arxiv.org/abs/2303.11873" class="pub-link">[Paper]</a></span>
-  <span class="pub-authors">William Merrill, Nikolaos Tsilivis, <strong>Aman Shukla</strong></span>
-  <span class="pub-venue">ICLR 2024 | Contribution: Co-author</span>
-  <span class="pub-desc">Investigates the mechanistic basis of grokking, identifying a transition where sparse, well-generalizing circuits outperform dense, overfit subnetworks.</span>
+  <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong>, Daniel Patrick Scantlebury, Rishabh Kumar</span>
+  <span class="pub-venue">Best Paper, NewInML Workshop @ ICML 2025</span>
+  <a href="https://arxiv.org/abs/2507.20919" class="pub-link">[arXiv]</a>
 </div>
 
 <div class="pub-item">
-  <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context <a href="https://arxiv.org/abs/2507.20919" class="pub-link">[Paper]</a></span>
-  <span class="pub-authors"><strong>Aman Shukla</strong>, David P. Scantlebury, Ritesh Kumar</span>
-  <span class="pub-venue">Preprint 2025 | Contribution: Lead author <span class="pub-best">🏆 Best Paper</span></span>
-  <span class="pub-desc">Proposes a framework for synthesizing high-fidelity user respondents by combining adaptive survey data with contextual behavioral signals.</span>
+  <span class="pub-title">Towards Fair User Modeling with Survey Guided Learning</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong> et al.</span>
+  <span class="pub-venue">Oral Presentation, IEEE FMLDS 2025</span>
 </div>
 
-
-## Featured Project
-
-<div class="project-card">
-  <h3>Behavior Prediction MoE for Audience Personalization</h3>
-  <ul>
-    <li><strong>Problem:</strong> Improve user behavior prediction quality for audience-building and downstream personalization.</li>
-    <li><strong>Approach:</strong> Architected mixture-of-experts style modeling and scalable training/evaluation workflows.</li>
-    <li><strong>Outcome:</strong> Achieved a 5% performance lift over prior XGBoost baseline.</li>
-    <li><strong>Deployment:</strong> Optimized inference pipeline over multi-trillion-row data on AWS stack (Spark/Scala/SageMaker).</li>
-  </ul>
+<div class="pub-item">
+  <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks</span>
+  <span class="pub-authors">William Merrill, Nikolaos Tsilivis, <strong>Aman Shukla</strong></span>
+  <span class="pub-venue">Workshop on Understanding Foundation Models, ICLR 2023</span>
+  <a href="https://arxiv.org/abs/2303.11873" class="pub-link">[arXiv]</a>
 </div>
 
+<p><a href="/Aman56/publications/">View all publications →</a></p>
 
-## Experience
+## In the News
 
-<div class="timeline">
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-header">
-        <div>
-          <span class="timeline-role">AI/ML Scientist</span>
-          <span class="timeline-company">Resonate</span>
-        </div>
-        <span class="timeline-date">Oct 2023 – Present</span>
-      </div>
-      <ul class="timeline-bullets">
-        <li><strong>Action:</strong> Architected user behavior prediction MoE models. <strong>Method:</strong> Iterative model and feature design. <strong>Impact:</strong> 5% performance lift over XGBoost baseline.</li>
-        <li><strong>Action:</strong> Optimized deployment stack. <strong>Method:</strong> Spark/Scala/SageMaker pipeline hardening. <strong>Scope:</strong> 3-trillion-row inference workloads.</li>
-        <li><strong>Action:</strong> Led vendor evaluations and productionization. <strong>Scope:</strong> ~10 models across 6 vendors in end-to-end pipelines.</li>
-      </ul>
-    </div>
-  </div>
+- **Authority Magazine** — [Guardians of AI: How AI Leaders Are Keeping AI Safe, Ethical, Responsible](https://medium.com/authority-magazine/guardians-of-ai-aman-shukla-of-resonate-on-how-ai-leaders-are-keeping-ai-safe-ethical-5c679de12b7c)
+- **Resonate Newsroom** — [Resonate Earns Recognition at Leading AI/ML Conferences](https://www.resonate.com/newsroom/resonate-earns-prestigious-recognition-at-leading-ai-ml-conferences-for-advances-in-responsible-user-modeling/)
+- **The AI Journal** — [Beyond Big Data: The Case for Surveys as Ground Truth in AI](https://aijourn.com/beyond-big-data-the-case-for-surveys-as-the-ground-truth-in-ai-behavior-modeling/)
 
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-header">
-        <div>
-          <span class="timeline-role">Researcher</span>
-          <span class="timeline-company">New York University</span>
-        </div>
-        <span class="timeline-date">2021–2023</span>
-      </div>
-      <ul class="timeline-bullets">
-        <li><strong>Action:</strong> Developed <strong>EmoMusic</strong>. <strong>Method:</strong> DeepMoji Transformers + GoogleNet. <strong>Outcome:</strong> Improved music-emotion interaction prediction.</li>
-        <li><strong>Action:</strong> Designed audio preprocessing pipeline. <strong>Method:</strong> STFT and librosa spectrogram workflows for richer representations.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-header">
-        <div>
-          <span class="timeline-role">Graduate Assistant</span>
-          <span class="timeline-company">New York University</span>
-        </div>
-        <span class="timeline-date">Sep 2021 – Dec 2022</span>
-      </div>
-      <ul class="timeline-bullets">
-        <li><strong>Action:</strong> Co-chaired the Graduate Student Advisory Board. <strong>Scope:</strong> Career services improvements affecting 10,000+ students.</li>
-        <li><strong>Action:</strong> Mentored students and alumni. <strong>Scope:</strong> Supported 2,500+ community members in technical career pathways.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-header">
-        <div>
-          <span class="timeline-role">Data Scientist</span>
-          <span class="timeline-company">Capgemini</span>
-        </div>
-        <span class="timeline-date">Jul 2018 – Dec 2020</span>
-      </div>
-      <ul class="timeline-bullets">
-        <li><strong>Action:</strong> Invented <strong>Orthogonal Coordinate Mapping (OCM)</strong> for Level 3 autonomous driving decision workflows.</li>
-        <li><strong>Action:</strong> Rebuilt NDS map extraction framework. <strong>Method:</strong> PostgreSQL automation. <strong>Impact:</strong> 35% processing time reduction.</li>
-        <li><strong>Action:</strong> Built 150+ Python utilities for self-driving map features with Pandas and NumPy.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
-## Methods and Infrastructure
-
-<div class="method-groups">
-  <div class="method-group">
-    <span class="method-label">Modeling</span>
-    <span class="method-items">Foundation models, MoE systems, behavior simulation, interpretability analysis</span>
-  </div>
-  <div class="method-group">
-    <span class="method-label">Data and Experimentation</span>
-    <span class="method-items">Adaptive surveys, feature engineering, evaluation design, error analysis</span>
-  </div>
-  <div class="method-group">
-    <span class="method-label">Infra and Deployment</span>
-    <span class="method-items">AWS, Spark, Scala, SageMaker, production inference pipelines</span>
-  </div>
-</div>
-
-
-## Honors and Recognition
-
-<div class="honors-list">
-  <div class="honor-item">
-    <span class="honor-year">2025</span>
-    <span class="honor-text">Best Paper recognition for work on adaptive survey-based user behavior modeling.</span>
-  </div>
-  <div class="honor-item">
-    <span class="honor-year">2024</span>
-    <span class="honor-text">Publication at ICLR on sparse and dense subnetwork competition in grokking.</span>
-  </div>
-</div>
-
-
-## Talks, Artifacts, and Profiles
-
-<div class="artifact-card-grid">
-  <div class="artifact-card">
-    <h3>Research Profiles</h3>
-    <p>Track publications, citations, and ongoing work.</p>
-    <div class="artifact-links">
-      <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao">Google Scholar</a>
-      <a href="https://github.com/Aman56">GitHub</a>
-      <a href="https://linkedin.com/in/aman56shukla">LinkedIn</a>
-    </div>
-  </div>
-
-  <div class="artifact-card">
-    <h3>Selected Paper Artifacts</h3>
-    <p>Primary paper links for current focus areas.</p>
-    <div class="artifact-links">
-      <a href="https://arxiv.org/abs/2303.11873">Grokking Circuits (ICLR 2024)</a>
-      <a href="https://arxiv.org/abs/2507.20919">User Behavior Modeling (2025)</a>
-    </div>
-  </div>
-</div>
-
+<p><a href="/Aman56/news/">All news & press →</a></p>
 
 ## Collaboration
 
 <div class="collab-cta">
-  <p><strong>Applied ML and Product Teams:</strong> Open to discussions on personalization systems, large-scale inference, and model quality improvements.</p>
-  <p><strong>Research Collaborators:</strong> Happy to collaborate on behavior modeling, synthetic respondents, and mechanistic interpretability.</p>
+  <p><strong>Industry:</strong> Open to discussions on personalization systems, survey-guided learning, and responsible ML.</p>
+  <p><strong>Research:</strong> Interested in collaborations on fairness, interpretability, and user behavior modeling.</p>
 </div>
-
-

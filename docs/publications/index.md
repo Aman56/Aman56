@@ -5,74 +5,58 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<div class="page-nav">
-  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/projects/">Projects</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a> · <a href="/Aman56/network/">Network</a>
+<div style="text-align: center; margin-bottom: 1.5em; font-size: 0.9em;">
+  <a href="/Aman56/">Home</a> · <a href="/Aman56/publications/">Publications</a> · <a href="/Aman56/resume/">Resume</a> · <a href="/Aman56/news/">News</a>
 </div>
 
-## Featured Publications
+## Peer-Reviewed Publications & Presentations
 
-<div class="pub-item featured">
-  <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks</span>
-  <p class="pub-authors">William Merrill, Nikolaos Tsilivis, <strong>Aman Shukla</strong></p>
-  <span class="pub-venue">ICLR 2024</span>
-  <p>This paper investigates grokking through the lens of mechanistic interpretability. We identify sparse and dense circuit structures that emerge during training and show how their competitive dynamics drive the grokking phenomenon.</p>
-  <div class="pub-impact">
-    <strong>Impact:</strong> Appeared in ICLR 2024 (tier-1 ML venue). Advances understanding of circuit competition and generalization dynamics in neural networks.
-  </div>
-  <a href="https://arxiv.org/abs/2303.11873" class="pub-link">arXiv</a> · <a href="https://iclr.cc" class="pub-link">ICLR</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a>
-</div>
-
-<div class="pub-item featured">
+<div class="pub-item">
   <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context</span>
-  <p class="pub-authors"><strong>Aman Shukla</strong>, David P. Scantlebury, Ritesh Kumar</p>
-  <span class="pub-venue">2025 Preprint</span>
-  <p>A framework for personalization grounded in adaptive survey design and synthetic respondent modeling. We demonstrate +5% lift on audience prediction tasks and deploy inference at scale (3T rows on AWS).</p>
-  <div class="pub-impact">
-    <strong>Impact:</strong> Production-validated approach combining deep learning with survey science. Currently deployed at Resonate Networks.
-  </div>
-  <a href="https://arxiv.org/abs/2507.20919" class="pub-link">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao" class="pub-link">Scholar</a>
+  <span class="pub-authors"><strong>Aman Shukla</strong>, Daniel Patrick Scantlebury, Rishabh Kumar</span>
+  <span class="pub-venue">🏆 Best Paper — NewInML Workshop @ ICML 2025</span>
+  <span class="pub-desc">Novel approach to improving behavioral models by augmenting behavior using supplemental signal and survey-guided learning.</span>
+  <a href="https://arxiv.org/abs/2507.20919" class="pub-link">[arXiv]</a>
 </div>
 
-## All Publications
+<div class="pub-item">
+  <span class="pub-title">Towards Fair User Modeling with Survey Guided Learning</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong> et al.</span>
+  <span class="pub-venue">Oral Presentation — IEEE FMLDS, November 2025</span>
+  <span class="pub-desc">First systematic methodology for evaluating fairness in personalization frameworks.</span>
+</div>
 
-<table class="pub-table">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Venue</th>
-      <th>Year</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks</td>
-      <td>ICLR</td>
-      <td>2024</td>
-      <td><a href="https://arxiv.org/abs/2303.11873">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao">Scholar</a></td>
-    </tr>
-    <tr>
-      <td>Modeling User Behavior from Adaptive Surveys with Supplemental Context</td>
-      <td>Preprint</td>
-      <td>2025</td>
-      <td><a href="https://arxiv.org/abs/2507.20919">arXiv</a> · <a href="https://scholar.google.com/citations?user=dtBDI_oAAAAJ&hl=en&oi=ao">Scholar</a></td>
-    </tr>
-  </tbody>
-</table>
+<div class="pub-item">
+  <span class="pub-title">Responsible Imputation of User Behavior Surveys via Mask-Aware Transformers</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong> et al.</span>
+  <span class="pub-venue">Oral Presentation — IEEE ICDM HDM Workshop, November 2025</span>
+  <span class="pub-desc">Breakthrough framework for responsibly filling survey gaps while respecting user intent and structural missingness.</span>
+</div>
+
+<div class="pub-item">
+  <span class="pub-title">Fairness-Audited Solutions for Reliable User Modeling at Scale</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong> et al.</span>
+  <span class="pub-venue">Poster/Oral — NeurIPS Reliable ML Workshop, December 2025</span>
+  <span class="pub-desc">Fairness-audited solutions for reliable user modeling at scale.</span>
+</div>
+
+<div class="pub-item">
+  <span class="pub-title">A Tale of Two Circuits: Grokking as Competition of Sparse and Dense Subnetworks</span>
+  <span class="pub-authors">William Merrill, Nikolaos Tsilivis, <strong>Aman Shukla</strong></span>
+  <span class="pub-venue">Workshop on Understanding Foundation Models — ICLR 2023</span>
+  <span class="pub-desc">Empirical study of grokking's internal structure, finding that the phase transition corresponds to the emergence of a sparse subnetwork that dominates a dense one.</span>
+  <a href="https://arxiv.org/abs/2303.11873" class="pub-link">[arXiv]</a>
+</div>
+
+---
 
 ## Research Themes
 
-### Mechanistic Interpretability
-Understanding the internal mechanisms of neural networks through circuit analysis, with focus on sparse-dense competition, grokking phenomena, and generalization dynamics.
+**User Behavior Modeling & Personalization**
+<br/>How can we model human intent from limited declarative signals? How do adaptive surveys serve as ground truth for large-scale behavior prediction?
 
-**Key Questions:** How do subnetworks specialize? What drives the transition from memorization to generalization? How can we interpret learned behaviors at scale?
+**Fairness & Responsible AI**
+<br/>How do we evaluate and ensure fairness in personalization systems? How can imputation respect structural missingness as intentional human choice?
 
-### Personalization at Scale
-Grounded personalization through adaptive survey design, synthetic respondent modeling, and audience understanding. Deployed in production ML systems handling billions of data points.
-
-**Key Questions:** How can we reliably model user preferences from limited signals? What inference architectures scale to trillions of examples? How do we measure and sustain model lift?
-
-### Production ML Infrastructure
-End-to-end design of reliable model pipelines: training, serving, and monitoring at scale on AWS. Focus on model robustness, latency, and cost optimization for real-world deployment.
-
-**Key Questions:** How do we handle model drift? What infrastructure patterns enable rapid experimentation? How do we maintain model quality under scale?
+**Mechanistic Interpretability**
+<br/>How do subnetworks specialize and compete? What drives the transition from memorization to generalization in neural networks?
