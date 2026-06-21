@@ -3,6 +3,10 @@ layout: single
 author_profile: true
 ---
 
+<div class="page-nav">
+  <a href="/">Home</a> · <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a> · <a href="/resume/">Resume</a> · <a href="/news/">News</a> · <a href="/network/">Network</a>
+</div>
+
 <div class="hero-block">
   <p class="hero-tagline">AI/ML Scientist / Foundation Models (Personalization) / LLM Interpretability</p>
   <h2 class="hero-title">Building production-grade personalization systems grounded in interpretable ML research.</h2>
@@ -208,4 +212,16 @@ author_profile: true
   <p><strong>Research Collaborators:</strong> Happy to collaborate on behavior modeling, synthetic respondents, and mechanistic interpretability.</p>
 </div>
 
+---
 
+<div class="page-nav">
+  <a href="/publications/">📚 View All Publications</a> · <a href="/projects/">🔬 Featured Projects</a> · <a href="/resume/">📄 Resume & CV</a> · <a href="/news/">📰 News & Updates</a> · <a href="/network/">🤝 Network</a>
+</div>
+
+
+
+---
+
+<div class="page-nav">
+  <a href="/publications/">📚 View All Publications</a> · <a href="/projects/">🔬 Featured Projects</a> · <a href="/resume/">📄 Resume & CV</a> · <a href="/news/">📰 News & Updates</a> · <a href="/network/">🤝 Network</a>
+</div>
