@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="hero-block">
-  <p class="hero-tagline">Lead Data Scientist · User Behavior Modeling · Fairness in ML</p>
+  <p class="hero-tagline">AI/ML Scientist · User Behavior Modeling · Fairness in ML</p>
   <h2 class="hero-title">I build AI systems that understand human intent — not just observe behavior.</h2>
   <p class="hero-intro">
     At <strong>Resonate</strong>, I lead research on adaptive survey-guided learning, responsible imputation, and personalization systems at scale. My work has been recognized with a <strong>Best Paper at ICML</strong> and presentations at <strong>IEEE</strong> and <strong>NeurIPS</strong>.
@@ -46,7 +46,7 @@ permalink: /
 
 <div class="pub-item">
   <span class="pub-title">Towards Fair User Modeling with Survey Guided Learning</span>
-  <span class="pub-authors"><strong>Aman Shukla</strong> et al.</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong>, Rishabh Kumar, Daniel Patrick Scantlebury</span>
   <span class="pub-venue">Oral Presentation, IEEE FMLDS 2025</span>
 </div>
 
