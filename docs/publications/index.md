@@ -38,6 +38,14 @@ permalink: /publications/
   <a href="https://arxiv.org/abs/2303.11873" class="pub-link">[arXiv]</a>
 </div>
 
+<div class="pub-item">
+  <span class="pub-title">EmoMusic: Learning to Represent and Interact with Music via Emojis</span>
+  <span class="pub-authors"><strong>Aman Shukla</strong></span>
+  <span class="pub-venue">2023</span>
+  <span class="pub-desc">System for representing music with emojis using weakly supervised learning, enabling emoji-based search and emotion visualization at song and segment level.</span>
+  <a href="https://openreview.net/forum?id=EvL26VrMCh" class="pub-link">[OpenReview]</a>
+</div>
+
 ---
 
 ## Invited Talks
@@ -50,7 +58,7 @@ permalink: /publications/
 
 ---
 
-## Professional Service
+## Reviewing & Organization
 
 **Workshop Organization**
 - Local Organizer & Session Chair — [HDM'25](https://sites.google.com/view/hdm25) (12th ICDM Workshop on High Dimensional Data Mining), IEEE ICDM 2025
