@@ -3,10 +3,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # You can later change this to "dark", "air", or "contrast"
 title: "# Hi, I'm Aman. 👋"
 
-# Jekyll permalink configuration for clean URLs
-permalink: /:title/
-baseurl: ""
-
 # This builds your beautiful left-hand sidebar profile
 author:
   name: "Aman Shukla"
