@@ -38,6 +38,13 @@ permalink: /
 ## Selected Publications
 
 <div class="pub-item">
+  <span class="pub-title">Compression at a Cost: Interpreting Information Bottlenecks in Safety-Aligned Reward Models</span>
+  <span class="pub-authors">Jing Liu*, <strong>Aman Shukla</strong>*</span>
+  <span class="pub-venue">Mechanistic Interpretability Workshop, ICML 2026</span>
+  <a href="https://openreview.net/forum?id=tjP3fBRCEr" class="pub-link">[OpenReview]</a>
+</div>
+
+<div class="pub-item">
   <span class="pub-title">Modeling User Behavior from Adaptive Surveys with Supplemental Context</span>
   <span class="pub-authors"><strong>Aman Shukla</strong>, Daniel Patrick Scantlebury, Rishabh Kumar</span>
   <span class="pub-venue">Best Paper, NewInML Workshop @ ICML 2025</span>
